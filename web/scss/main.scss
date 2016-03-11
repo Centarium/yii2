@@ -1,0 +1,46 @@
+.half
+{
+	width: 50%;
+	float: left;
+}
+.full
+{
+	width: 95%;
+}
+#news_form
+{
+	.first_block
+	{
+		@extend .half;
+	}
+	.second_block
+	{
+		@extend .half;
+	}
+	input,textarea
+	{
+		@extend .full;
+		box-sizing:border-box;
+	}
+	textarea
+	{
+		height: 108px;
+	}
+	.form-group
+	{
+		clear: both;
+	}
+}
+.user_info
+	{
+		 td,th
+		 {
+		 	padding: 14px;
+			border: 1px solid black;
+		 }
+	
+	}
+.wrap
+{
+	padding-top: 90px;
+}

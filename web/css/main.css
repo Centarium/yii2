@@ -1,0 +1,22 @@
+.half, #news_form .first_block, #news_form .second_block {
+  width: 50%;
+  float: left; }
+
+.full, #news_form input, #news_form textarea {
+  width: 95%; }
+
+#news_form input, #news_form textarea {
+  box-sizing: border-box; }
+
+#news_form textarea {
+  height: 108px; }
+
+#news_form .form-group {
+  clear: both; }
+
+.user_info td, .user_info th {
+  padding: 14px;
+  border: 1px solid black; }
+
+.wrap {
+  padding-top: 90px; }

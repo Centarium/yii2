@@ -1,0 +1,40 @@
+.post_title
+{
+    border: 1px solid #DEDDDD;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.post_text
+{
+    border: 1px solid #F0F0FF;
+    padding: 10px;
+    min-height: 300px;
+    margin-top: 10px;
+}
+#new_comment_form
+{
+    margin-top: 30px;
+}
+
+#comments
+{
+    margin-top: 20px;
+    border: 1px solid #DDF3E3;
+    border-radius: 3px;
+    padding: 5px;
+}
+.comment
+{
+    padding: 5px;
+    border: 1px solid #EAEBEF;
+    width: 50%;
+    margin: 5px 0px 5px 0px;
+    border-radius: 4px;
+}
+.mrg-t-10
+{
+    margin-top: 10px;
+}
